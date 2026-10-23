@@ -64,7 +64,3 @@ A responsive web application that displays weather information for cities around
 
 - GitHub: [@Mohamedhatem554](https://github.com/Mohamedhatem554)
 - LinkedIn: [Mohamed H. Abdalaal](www.linkedin.com/in/mohamed-h-abdalaal)
-
-## 📄 License
-
-This project is available for learning and portfolio purposes. Add a license file if you intend to distribute it under specific terms.
