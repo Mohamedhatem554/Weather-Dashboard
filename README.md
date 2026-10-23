@@ -18,6 +18,8 @@ A responsive web application that displays weather information for cities around
 
 ## 📸 Screenshots
 
+[Weather Dashboard Screenshot](image/Images (1).png)
+
 <!-- Add your project screenshots here -->
 
 <!-- Example:
