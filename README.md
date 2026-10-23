@@ -51,14 +51,6 @@ A responsive web application that displays weather information for cities around
 
 5. Run the application using a local development server, such as the Live Server extension in Visual Studio Code.
 
-## 🔑 API Configuration
-
-This project uses a weather API to retrieve weather information.
-
-If an API key is required, follow the provider's documentation to obtain one and configure it according to the project's source code.
-
-**Security note:** Never commit private API keys or other secrets to a public repository.
-
 ## 💡 What I Learned
 
 - Working with external APIs in JavaScript.
